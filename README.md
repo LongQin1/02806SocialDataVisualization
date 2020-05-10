@@ -4,7 +4,7 @@ Testing  if *this* **works**
 <iframe src="final project/national_stock.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="100%"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
