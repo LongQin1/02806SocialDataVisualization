@@ -3,7 +3,7 @@ Testing  if *this* **works**
 ## National stock index
 <iframe src="final project/national_stock.html"
     sandbox="allow-same-origin allow-scripts"
-    width="750"
+    width="1000"
     height="500"
     scrolling="no"
     seamless="seamless"
