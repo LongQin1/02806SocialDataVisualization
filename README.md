@@ -11,11 +11,17 @@ These days we are hearing alot about COVID-19. As the virus has spreed through o
 </iframe>
 
 ## The national perspective
-
-
-
-## National stock index
+Since the number of cases started to rise there have not been anything else to do than see the 
 <iframe src="final project/national_stock.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="1000"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+<iframe src="final project/COVID19_Confirmed_Cases.html"
     sandbox="allow-same-origin allow-scripts"
     width="1000"
     height="500"
