@@ -30,3 +30,6 @@ These days we are hearing alot about COVID-19. As the virus has spreed through o
 </iframe>
 
 ## Understanding the effect across industries
+
+### Details can be found here
+[blue_text](url_here)
