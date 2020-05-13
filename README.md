@@ -31,5 +31,4 @@ These days we are hearing alot about COVID-19. As the virus has spreed through o
 
 ## Understanding the effect across industries
 
-### Details can be found here
-[blue_text](url_here)
+### Details can be found [here](https://nbviewer.jupyter.org/github/LongQin1/02806SocialDataVisualization.github.io/blob/master/final%20project/Explainer%20notebook.ipynb#Motivation)
