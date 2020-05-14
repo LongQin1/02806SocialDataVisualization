@@ -32,4 +32,4 @@ These days we are hearing alot about COVID-19. As the virus has spreed through o
 ## Understanding the effect across industries
 Since this pandemic broke out, governments have been taking unprecedented measures to slow it down. Thia have definitely had a severe effect on the economy system in every country, as was made clear in the previouse section. In the section, the focus is on the performance of companies in the stock markets and to try to figure out to what extend different companies' operation have been affected by the Coronavirus. Many public companies' stock prices plummet while others benefited from this special situation.
 
-### Details can be found [here](https://nbviewer.jupyter.org/github/LongQin1/02806SocialDataVisualization.github.io/blob/master/final%20project/Explainer%20notebook.ipynb#Motivation)
+### Details can be found [here](https://nbviewer.jupyter.org/github/LongQin1/02806SocialDataVisualization.github.io/blob/master/final%20project/Explainer%20notebook.ipynb?flush_cache=true)
