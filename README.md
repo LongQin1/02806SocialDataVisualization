@@ -11,6 +11,7 @@ These days we are hearing alot about COVID-19. As the virus has spreed through o
 </iframe>
 
 ## The national perspective
+In this section.
 <iframe src="final project/national_stock.html"
     sandbox="allow-same-origin allow-scripts"
     width="1000"
