@@ -15,3 +15,7 @@ final project/S&P_TSX Composite Historical Data_Canada.csv
 final project/Shanghai Composite Historical Data_China.csv
 
 final project/South-Africa-Top-40-Historical-Data_South-Africa.csv
+
+*.csv
+
+final project/pyecharts_snapshot-0.2.0-py2.py3-none-any.whl
