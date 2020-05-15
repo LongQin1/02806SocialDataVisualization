@@ -28,7 +28,7 @@ To get a understanding of how the financial situation have been devloping, we fo
     seamless="seamless"
     frameborder="0">
 </iframe>
-​ The development overall matches with the development of the number of confirmed cases of COVID-19, with the drastic drop in stock prices happening at the same time as the increases in number of confirmed cases can be observed. Towards the end of the observed period, the development of number of confirmed COVID-19 cases appear to begin to stabilize, which corresponds well with the stabilization with can be observed for the stock prices towards the end of the period as well.
+The development overall matches with the development of the number of confirmed cases of COVID-19, with the drastic drop in stock prices happening at the same time as the increases in number of confirmed cases can be observed. Towards the end of the observed period, the development of number of confirmed COVID-19 cases appear to begin to stabilize, which corresponds well with the stabilization with can be observed for the stock prices towards the end of the period as well.
 
 <iframe src="final project/COVID19_Confirmed_Cases.html"
     sandbox="allow-same-origin allow-scripts"
@@ -38,7 +38,7 @@ To get a understanding of how the financial situation have been devloping, we fo
     seamless="seamless"
     frameborder="0">
 </iframe>
-​ While a clear difference can be observed in the development of number of confirmed cases within the different contries, it is not that easy to distinguish between the development of the stock markets. Overall no clear connection can be observed between the number of confirmed COVID-19 cases registered within a country, and how strongly the stock marked appear to have been affected. For instance Denmark and China appear to have a less drastic changed in stock prices in the period where the other countries have experienced a large decrease, while Australia with a relatively low number of confirmed cases did experience a decrease comparable to what can be observed for the US, even though a much large number of COVID-19 cases was confirmed for US.
+While a clear difference can be observed in the development of number of confirmed cases within the different contries, it is not that easy to distinguish between the development of the stock markets. Overall no clear connection can be observed between the number of confirmed COVID-19 cases registered within a country, and how strongly the stock marked appear to have been affected. For instance Denmark and China appear to have a less drastic changed in stock prices in the period where the other countries have experienced a large decrease, while Australia with a relatively low number of confirmed cases did experience a decrease comparable to what can be observed for the US, even though a much large number of COVID-19 cases was confirmed for US.
 
 
 
@@ -59,8 +59,8 @@ To see the below plot please press the 'data view' at tool bar in plot ,then pre
     frameborder="0">
 </iframe>
 
-The above visualization clearly show four companies have finincially benefited from the way the marked have changed during COVID-19, as their accumulated changes are positive while others are negative. These companies are Yiling, Netflix, Amazon and Takeway. Yiling_Medicine is the one benefit most from COVID-19, during the past 4 months, the accumulated fluctuation is more than 100%. The accumulated increase for Netflix, Amazon and Justeat is 24.93%, 18.86% and 9.05%.
+The above visualization clearly shows that four companies have finincially benefited from the way the marked has changed during COVID-19, as their accumulated changes are positive. These companies are Yiling Medicine, Netflix, Amazon and Justeat. Yiling Medicine has benefited the most from COVID-19, as the accumulated fluctuation over the past four months is more than 100%. The accumulated increase for Netflix, Amazon and Justeat are still positive, but lower at 24.93%, 18.86% and 9.05%.
 
-In terms of the negative effects of COVID-19, airlines seemed to suffer most. There were accumulated drops of 64.23% and 29.92% separately for SAS and Ryan airline. Entertainment was the second most suffered industry. Disney lost 27.23% in total and Tivoli lost 9.54%. The performance of the food industry varied based on their categories, for example, the takeaway business thrived but restaurant like McDoload was affected. But maybe because most McDoload restaurants have their own take-away service, therefore they didn't suffer a lot by COVID-19 with a little drop of 2.91%.
+​    In terms of the negative effects of COVID-19, airlines seemed to suffer most. There were accumulated drops of 64.23% and 29.92%  for SAS and Ryan airline. The Entertainment industry appear to be the second most negativly affected industry. Disney lost 27.23% in total and Tivoli lost 9.54%. The performance of the food industry varied based on their categories, for example, the takeaway business Justeat thrived, but restaurants like McDoloads was affected. This could be because most McDoloads restaurants have their own take-away service, therefore they didn't suffer a lot by COVID-19 with a small drop of 2.91%.
 
 ### Details can be found [here](https://nbviewer.jupyter.org/github/LongQin1/02806SocialDataVisualization.github.io/blob/master/final%20project/Explainer%20notebook.ipynb)
