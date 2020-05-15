@@ -46,11 +46,7 @@ While a clear difference can be observed in the development of number of confirm
 
 ​    Since this pandemic broke out, governments have been taking unprecedented measures to slow it down. This have definitely had a severe effect on the economy system in every country, as was made clear in the previous section. In the section, the focus is on the performance of companies in the stock markets and to try to figure out to what extend different companies' operation have been affected by the Coronavirus. Many public companies' stock prices plummet while others benefited from this special situation.
 
-**Note on showing the plot**
-
-To see the below plot please press the 'data view' at tool bar in plot ,then press '刷新'(which stand for refresh).
-
-<iframe src="final project/Company Stock.html"
+<iframe src="final project/accumulatedChangeIndustry.html"
     sandbox="allow-same-origin allow-scripts"
     width="1000"
     height="500"
@@ -61,6 +57,6 @@ To see the below plot please press the 'data view' at tool bar in plot ,then pre
 
 The above visualization clearly shows that four companies have finincially benefited from the way the marked has changed during COVID-19, as their accumulated changes are positive. These companies are Yiling Medicine, Netflix, Amazon and Justeat. Yiling Medicine has benefited the most from COVID-19, as the accumulated fluctuation over the past four months is more than 100%. The accumulated increase for Netflix, Amazon and Justeat are still positive, but lower at 24.93%, 18.86% and 9.05%.
 
-​    In terms of the negative effects of COVID-19, airlines seemed to suffer most. There were accumulated drops of 64.23% and 29.92%  for SAS and Ryan airline. The Entertainment industry appear to be the second most negativly affected industry. Disney lost 27.23% in total and Tivoli lost 9.54%. The performance of the food industry varied based on their categories, for example, the takeaway business Justeat thrived, but restaurants like McDoloads was affected. This could be because most McDoloads restaurants have their own take-away service, therefore they didn't suffer a lot by COVID-19 with a small drop of 2.91%.
+In terms of the negative effects of COVID-19, airlines seemed to suffer most. There were accumulated drops of 64.23% and 29.92%  for SAS and Ryan airline. The Entertainment industry appear to be the second most negativly affected industry. Disney lost 27.23% in total and Tivoli lost 9.54%. The performance of the food industry varied based on their categories, for example, the takeaway business Justeat thrived, but restaurants like McDoloads was affected. This could be because most McDoloads restaurants have their own take-away service, therefore they didn't suffer a lot by COVID-19 with a small drop of 2.91%.
 
 ### Details can be found [here](https://nbviewer.jupyter.org/github/LongQin1/02806SocialDataVisualization.github.io/blob/master/final%20project/Explainer%20notebook.ipynb)
